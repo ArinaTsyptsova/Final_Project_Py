@@ -7,7 +7,7 @@
 
 Функции блокнота - _function_
 
-операциb с файлом - _file_operation_
+Операции с файлом - _file_operation_
 
 Модули блокнота - _Notepad.py_
 
